@@ -1,9 +1,9 @@
 This project is made completely by MLE_qwq. All rights reserved.
 
 **IMPORTANT NOTE:** 
-1. I put the **WRONG** QQ number in the program and unfortunately I lost its source code. The correct number is 482284091 (**NOT** 482284096, which is mentioned in the program).
+1. I put the **WRONG** QQ number in the program and unfortunately I lost its source code therefore I can't correct that thing. The correct number is 482284091 (**NOT** 482284096, which is mentioned in the program).
 2. The instructions inside the program are written in Chinese, which may not be suitable for everyone. Plus, the devices whose default ANSI coding is not Chinese may not be able to display texts normally.
-3. Window transparency is enabled by default, which may make some windows look abnormal. In order to turn this feature off, drag its interval to 0 on the second page of the settings.
+3. The feature "window transparency" is enabled by default, which may make some windows look abnormal. In order to turn this feature off, drag its interval to 0 on the second page of the settings.
 4. When the hiding hotkey and the showing hotkey are set to the same value, a glitch will happen. So try to set different values for them.
 5. MLEBosskey detects whether the hotkeys are pressed down or not by checking the keys on your keyboard instead of registering a hotkey for real, which causes other programs that also use the same hotkeys to be triggered as well when pressing the hotkeys down.
    
