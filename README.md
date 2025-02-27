@@ -21,18 +21,18 @@ This project is made completely by MLE_qwq. All rights reserved.
    **Note:** Ctrl+W is also a hotkey for some programs such as browsers and document editing programs to close the current page it's opening. While using Ctrl+W as the showing hotkey, these programs will be triggered as well when you press the hotkey down.
    **Hint:** If you've forgotten the showing hotkey and you have important work whose windows are hidden, create a file named 'EmergencyShow.txt' under the directory where MLEBosskey is, and it'll show all hidden windows and quits afterward.
 
-5. Force close
+4. Force close
    Press down another specific hotkey and MLEBosskey will kill the windows that are in the list.
    The default hotkey for force closing is Ctrl+K.
    **Note:** This feature may lag depending on the windows in the list, so it's better to hide the windows first and force closing them afterward.
 
-6. Showing/Hiding MLEBosskey itself
+5. Showing/Hiding MLEBosskey itself
    To hide the main window of MLEBosskey, simply close the window and it'll keep running in the background.
    To show the main window of MLEBosskey, press down a specific hotkey. The default hotkey for this is Ctrl+M.
 
-7. Transparency
+6. Transparency
    This feature allows you to make the windows in the list transparent according to the settings.
    This feature is on by default, but it may make some windows look abnormal. To turn this feature off, drag its interval to 0 on the settings page, as I said in the important notes.
    The settings page for this feature is at the second tab of the settings window.
 
-Thanks for your support. 
+That's everything you'll need to know so far. Thanks for your support. 
